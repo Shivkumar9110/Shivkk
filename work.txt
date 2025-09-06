@@ -1,0 +1,10 @@
+header Work:-- 
+
+
+
+button logIn and Singup change if viewer is login then so the navigation menu base on phone mode and after login can't show regeter and login button should be logOut button.
+
+
+
+Gallary:- 
+add to card according allbum.
